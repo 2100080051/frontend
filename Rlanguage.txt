@@ -1,0 +1,6 @@
+data types in r language 
+
+string ------numeric integer
+character------logical operatot
+factor
+complex 
